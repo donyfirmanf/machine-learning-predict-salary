@@ -1,2 +1,2 @@
-# machine-learning-predict-salary
-Study about Machine Learning to predict Salary
+# documentaion-machine-learning
+This respository contain my documention about machine learning
